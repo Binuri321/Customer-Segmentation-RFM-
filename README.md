@@ -1,6 +1,3 @@
-# Customer-Segmentation-RFM-
-RFM analysis of customers using Power BI
-
 # Customer Segmentation using RFM Analysis
 
 This project applies RFM (Recency, Frequency, Monetary) analysis to an e-commerce dataset to identify customer segments and enable targeted marketing strategies. It helps businesses understand who their most valuable customers are, who may be at risk, and where opportunities lie for engagement.
